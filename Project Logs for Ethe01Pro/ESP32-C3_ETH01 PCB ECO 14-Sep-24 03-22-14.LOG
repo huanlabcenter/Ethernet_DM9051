@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=FP? NewDesignator=FP1
+Added Component: Designator=H?(HDR1X4)
+Added Component: Designator=H?(HDR1X11)
+Added Component: Designator=H?(HDR1X4)
+Added Component: Designator=H?(HDR1X11)
+Added Pin To Net: NetName=+5 Pin=H?-1
+Added Pin To Net: NetName=C3_TX Pin=H?-1
+Added Pin To Net: NetName=ESP_EN Pin=H?-1
+Added Pin To Net: NetName=EXT_IO0 Pin=H?-1
+Added Pin To Net: NetName=C3_RX Pin=H?-2
+Added Pin To Net: NetName=ETH_STA_LINK Pin=H?-2
+Added Pin To Net: NetName=GND Pin=H?-2
+Added Pin To Net: NetName=GND Pin=H?-2
+Added Pin To Net: NetName=+3V3 Pin=H?-3
+Added Pin To Net: NetName=C3_IO9 Pin=H?-3
+Added Pin To Net: NetName=POE_PW_VCC Pin=H?-3
+Added Pin To Net: NetName=ESP_EN Pin=H?-4
+Added Pin To Net: NetName=GND Pin=H?-4
+Added Pin To Net: NetName=POE_PW_GND Pin=H?-4
+Added Pin To Net: NetName=C3_IO0 Pin=H?-5
+Added Pin To Net: NetName=C3_IO1 Pin=H?-5
+Added Pin To Net: NetName=C3_IO4 Pin=H?-6
+Added Pin To Net: NetName=C3_IO18 Pin=H?-6
+Added Pin To Net: NetName=C3_IO2 Pin=H?-7
+Added Pin To Net: NetName=C3_IO19 Pin=H?-7
+Added Pin To Net: NetName=C3_IO5 Pin=H?-8
+Added Pin To Net: NetName=EXT_IO4 Pin=H?-8
+Added Pin To Net: NetName=EXT_IO3 Pin=H?-9
+Added Pin To Net: NetName=GND Pin=H?-9
+Added Pin To Net: NetName=+3V3 Pin=H?-10
+Added Pin To Net: NetName=EXT_IO2 Pin=H?-10
+Added Pin To Net: NetName=EXT_IO1 Pin=H?-11
+Added Pin To Net: NetName=GND Pin=H?-11
+Added Member To Class: ClassName=Ethe01Pro Member=Component H? Header 4
+Added Member To Class: ClassName=Ethe01Pro Member=Component H? Header 11
+Added Member To Class: ClassName=Ethe01Pro Member=Component H? Header 4
+Added Member To Class: ClassName=Ethe01Pro Member=Component H? Header 11

@@ -1,0 +1,11 @@
+Add Component: Footprint Not Found SOT95P280X145-5N
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Added Member To Class: ClassName=Ethe01Pro Member=Component C19 10uF-0603
+Added Member To Class: ClassName=Ethe01Pro Member=Component LD2 LED-RED
+Added Member To Class: ClassName=Ethe01Pro Member=Component R1 10K-0603
+Added Member To Class: ClassName=Ethe01Pro Member=Component U1 DM9051
+Add Class Member: Failed to add class member : Component U3 ETA3417

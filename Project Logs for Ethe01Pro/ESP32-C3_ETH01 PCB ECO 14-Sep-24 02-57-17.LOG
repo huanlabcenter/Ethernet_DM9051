@@ -1,0 +1,8 @@
+Added Component: Designator=FP?(FP0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.mouser.vn/ProductDetail/TDK/MAF1608FAD121CT000?qs=s6nfgz3miVyig30k%2FQ1Tzw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ETH_PWR Pin=FP?-1
+Added Pin To Net: NetName=+3V3 Pin=FP?-2
+Added Pin To Net: NetName=C3_IO9 Pin=U1-17
+Added Pin To Net: NetName=+3V3 Pin=U2-1
+Added Class: Name=Ethe01Pro
